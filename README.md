@@ -1,35 +1,36 @@
 # Smart Resume Analyser
-## System Making user for uploading resume format PDF
-## System making admin to see the list of user and resume uploaded with statistics analysis
+## features 
+** System Making user for uploading resume format PDF
+** System making admin to see the list of user and resume uploaded with statistics analysis
 
 # Librairies
-# Required tools :
-## streamlit :
+## Required tools
+* streamlit :
 pip install streamlit
-## pdfminer3 :
+* pdfminer3 :
 pip install pdfminer3
-## pyresparser :
+* pyresparser :
 pip install pyresparser
-## pandas :
+* pandas :
 pip install pandas
-## pafy :
+* pafy :
 pip install pafy
-## plotly : 
+* plotly : 
 pip install plotly
-## pymysql:
+* pymysql:
 pip install pymysql
-## pytube :
+* pytube :
 pip install pytube
-## nltk :
+* nltk :
 pip install nltk
-## spacy (Version 2.3.5):
+* spacy (Version 2.3.5):
 pip install spacy==2.3.5
-## pickle:
+* pickle:
 pip install pickle
 
 # Running application
-streamlit run name_file.py(app.py)
+* streamlit run name_file.py(app.py)
 
 ## Running on :
-Local URL: http://localhost:8501
-Network URL: http://192.168.1.15:8501
+* Local URL: http://localhost:8501
+* Network URL: http://192.168.1.15:8501
