@@ -1,7 +1,7 @@
 # Smart Resume Analyser
 ## features 
-** System Making user for uploading resume format PDF
-** System making admin to see the list of user and resume uploaded with statistics analysis
+* System Making user for uploading resume format PDF
+* System making admin to see the list of user and resume uploaded with statistics analysis
 
 # Librairies
 ## Required tools
